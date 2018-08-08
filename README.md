@@ -6,3 +6,7 @@ Arduino with ranging sensor VL53L0X. The rotation is carried out by means of a g
 The read data is sent via UART serial communication.
 
 ![Sketch](https://raw.github.com/mserafin/Radar-360-Hardware/master/sketch.png)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
